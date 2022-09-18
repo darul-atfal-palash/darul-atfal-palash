@@ -6,7 +6,8 @@ Research Interest : Power Electronics, Renewable Energy, Control Theory and Appl
 
 Skills: MATLAB / PYTHON / C / PROTEUS / MULTISIM / MATHEMATICA
 
-- 📫 How to reach me: Email : darulatfalpalash@gmail.com 
+- 📫 How to reach me: Email : darulatfalpalash@gmail.com
+- 💬 Ask me about **Matlab, Python, Simulink**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/darul-atfal-palash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mddarulatfalpalash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/darulatfalpalash.pn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.youtube.com/c/PNPTutorialHub)  
