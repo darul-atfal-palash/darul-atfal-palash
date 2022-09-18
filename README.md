@@ -9,7 +9,7 @@ Skills: MATLAB / PYTHON / C / PROTEUS / MULTISIM / MATHEMATICA
 - 📫 How to reach me: Email : darulatfalpalash@gmail.com
 - 💬 Ask me about **Matlab, Python, Simulink**
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Eletronics & Telecommunication Engineer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
